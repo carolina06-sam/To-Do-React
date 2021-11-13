@@ -38,6 +38,5 @@
     },
     "devDependencies": {
         "gh-pages": "^3.2.3"
-    },
-    "homepage": "https://carolina06-sam.github.io/"
+    }
 }
